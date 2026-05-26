@@ -94,6 +94,9 @@ Navigate to the "Deleted Files" section in Autopsy and examine or recover the de
 
 <img width="1911" height="901" alt="image" src="https://github.com/user-attachments/assets/d8f27e87-96b0-4495-bb1b-7d1ffc8a7305" />
 
+<img width="1915" height="947" alt="image" src="https://github.com/user-attachments/assets/c02176f1-c107-4edf-a0dd-83b0f987f372" />
+
+<img width="1809" height="870" alt="image" src="https://github.com/user-attachments/assets/05b51aef-016e-459f-81a3-4ed7f655d26f" />
 
 ## RESULT:
 
